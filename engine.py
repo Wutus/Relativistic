@@ -1,7 +1,7 @@
 from body import Body
 import numpy as np
 from vector_helpers import *
-
+#love your engine
 class Engine:
     def __init__(self, pos1, vel1, pos2, vel2):
         self.bodies = [
